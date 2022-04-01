@@ -21,4 +21,8 @@ req=requests.get("https://ainxbot-sms.herokuapp.com/api/spamsms",params={"phone"
 if 'Terkirim' in req:
     print ('[√] SpamSmS Berhasil [√] ')
 else:
-    print ('[!] SpamSmS Gagal [!] ')
+		print(f"{x+1}. Spam Gagal {num}")
+		for i in range(31):
+			print(end=f"\r>> Sleep {30-i}s <<", flush=True)
+			time.sleep(1)
+		print()

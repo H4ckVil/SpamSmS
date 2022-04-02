@@ -39,7 +39,7 @@ if __name__ == '__main__':
   Spam _____ __  ________
   / ___//  |/  / ___/ | Spam SmS
   \__ \/ /|_/ /\__ \  | Spam SmS User Indihome
- ___/ / /  / /___/ /  | Gunakan Dengan Baik - \033[31;2m By Dark IT\033[39;2mXploit\033[0;1m
+ ___/ / /  / /___/ /  | Gunakan Dengan Baik - \033[31;2m By Dark IT\033[39;2m Xploit\033[0;1m
 /____/_/  /_//____/By H4ckVil  | ex: 08xxxxx\033[0m
 	""")
 

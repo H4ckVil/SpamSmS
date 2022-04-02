@@ -22,7 +22,6 @@ if 'Terkirim' in req:
     print ('[√] SpamSmS Berhasil [√] ')
 else:
 		print(f"{x+1}. Spam Gagal {num}")
-		for i in range(31):
-			print(end=f"\r>> Sleep {30-i}s <<", flush=True)
+
 			time.sleep(1)
 		print()
